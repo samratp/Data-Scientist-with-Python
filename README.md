@@ -11,3 +11,4 @@ Career Track from DataCamp - Data Scientist with Python
 6. Importing Data in Python 2
 7. Cleaning Data in Python
 8. pandas Foundations
+9. Manipulating DataFrames with pandas
