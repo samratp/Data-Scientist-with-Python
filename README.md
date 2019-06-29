@@ -14,3 +14,4 @@ Career Track from DataCamp - Data Scientist with Python
 9. Manipulating DataFrames with pandas
 10. Merging DataFrames with pandas
 11. Analyzing Police Activity with pandas
+12. Intro to SQL for Data Science
