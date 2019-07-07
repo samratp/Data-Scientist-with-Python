@@ -16,3 +16,4 @@ Career Track from DataCamp - Data Scientist with Python
 11. Analyzing Police Activity with pandas
 12. Intro to SQL for Data Science
 13. Introduction to Relational Databases in SQL
+14. Introduction to Data Visualization with Python
