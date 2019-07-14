@@ -18,3 +18,4 @@ Career Track from DataCamp - Data Scientist with Python
 13. Introduction to Relational Databases in SQL
 14. Introduction to Data Visualization with Python
 15. Interactive Data Visualization with Bokeh
+16. Statistical Thinking in Python 1
