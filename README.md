@@ -19,3 +19,4 @@ Career Track from DataCamp - Data Scientist with Python
 14. Introduction to Data Visualization with Python
 15. Interactive Data Visualization with Bokeh
 16. Statistical Thinking in Python 1
+17. Statistical Thinking in Python 2
