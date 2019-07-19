@@ -21,3 +21,4 @@ Career Track from DataCamp - Data Scientist with Python
 16. Statistical Thinking in Python 1
 17. Statistical Thinking in Python 2
 18. Joining Data in SQL
+19. Introduction to Shell for Data Science
