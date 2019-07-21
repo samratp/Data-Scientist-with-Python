@@ -23,3 +23,4 @@ Career Track from DataCamp - Data Scientist with Python
 18. Joining Data in SQL
 19. Introduction to Shell for Data Science
 20. Conda Essentials
+21. Supervised Learning with scikit-learn
