@@ -25,3 +25,4 @@ Career Track from DataCamp - Data Scientist with Python
 20. Conda Essentials
 21. Supervised Learning with scikit-learn
 22. Machine Learning with the Experts: School Budgets
+23. Unsupervised Learning in Python
