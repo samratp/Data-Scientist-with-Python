@@ -27,3 +27,4 @@ Career Track from DataCamp - Data Scientist with Python
 22. Machine Learning with the Experts: School Budgets
 23. Unsupervised Learning in Python
 24. Machine Learning with Tree-Based Models in Python
+25. Deep Learning in Python
