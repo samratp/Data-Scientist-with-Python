@@ -28,3 +28,4 @@ Career Track from DataCamp - Data Scientist with Python
 23. Unsupervised Learning in Python
 24. Machine Learning with Tree-Based Models in Python
 25. Deep Learning in Python
+26. Network Analysis in Python
